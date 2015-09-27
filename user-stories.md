@@ -13,3 +13,7 @@
 * As a user, I want to be able to pay with credit cards in the system, so I do not have to wait in line.
 
 * As a user, I want a plot comparison function, so I can compare the price, location and other stuffs.
+
+* As a manager, I want to be able to get all the information of a specific peroson by searching the location of the plot he is located in. 
+
+* As a manager, I want to be able to get an automatic notice when certain rates(for example 90%) of the plots have been occupied. 
